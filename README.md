@@ -104,12 +104,6 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 
 ---
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## Acknowledgments
 
 - Dataset: [Kaggle IMDB 50k Reviews Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
