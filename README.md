@@ -17,7 +17,7 @@ The repository is organized as follows:
      - **Key Features:**  
        - Comparison of metrics like accuracy, precision, recall, and F1 score for both models.  
        - Insights into model performance for classification tasks.
-   **colab link:** https://colab.research.google.com/github/Ifham-Ansari/IMDB-dataset-Sentiment-Analysis-Topic-Modeling/blob/main/sentiment_ML.ipynb
+   - **colab link:** https://colab.research.google.com/github/Ifham-Ansari/IMDB-dataset-Sentiment-Analysis-Topic-Modeling/blob/main/sentiment_ML.ipynb
 
 2. **`sentiment_classification_DL.ipynb`**  
    - **Description:**  
@@ -26,7 +26,7 @@ The repository is organized as follows:
      - **Key Features:**  
        - Implementation of LSTM for textual data.  
        - Analysis of its performance metrics.  
-    **colab link:** https://colab.research.google.com/github/Ifham-Ansari/IMDB-dataset-Sentiment-Analysis-Topic-Modeling/blob/main/sentiment_classification_DL.ipynb
+    - **colab link:** https://colab.research.google.com/github/Ifham-Ansari/IMDB-dataset-Sentiment-Analysis-Topic-Modeling/blob/main/sentiment_classification_DL.ipynb
       
 3. **`Topic_Modeling_BERT.ipynb`**  
    - **Description:**  
@@ -34,7 +34,7 @@ The repository is organized as follows:
      - **Key Features:**  
        - Topic extraction to discover themes in reviews.  
        - Insights into common discussion points such as acting, screenplay, and music.
-   **colab link:** https://colab.research.google.com/github/Ifham-Ansari/IMDB-dataset-Sentiment-Analysis-Topic-Modeling/blob/main/Topic_Modeling_BERT.ipynb  
+   - **colab link:** https://colab.research.google.com/github/Ifham-Ansari/IMDB-dataset-Sentiment-Analysis-Topic-Modeling/blob/main/Topic_Modeling_BERT.ipynb  
 
 4. **`index.ipynb`**  
    - **Description:**  
@@ -48,7 +48,7 @@ The repository is organized as follows:
        - Topic Modeling with BERTopic:  
          - Extracting and visualizing key topics in the reviews.  
        - Preprocessed data and model training insights.
-   **colab link:** https://colab.research.google.com/github/Ifham-Ansari/IMDB-dataset-Sentiment-Analysis-Topic-Modeling/blob/main/index.ipynb
+   - **colab link:** https://colab.research.google.com/github/Ifham-Ansari/IMDB-dataset-Sentiment-Analysis-Topic-Modeling/blob/main/index.ipynb
 
 ---
 
